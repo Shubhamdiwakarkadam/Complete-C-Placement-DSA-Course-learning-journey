@@ -1,11 +1,9 @@
-// Your First C++ Program
+#include<iostream>
 
-#include <iostream>
 using namespace std;
 
-int main() {
-
-    /* data types */
+int main(){
+     /* data types */
     cout << "namste duniya:-)" <<endl;
     cout << "shubham \n";
 
@@ -70,20 +68,8 @@ int main() {
    
    =
    <
-   >
+   >s
    <=
    =>
    */
-
-  int o = 2;
-  int z = 3;
-
-  bool first = (o==z);
-  cout << first << endl;
-
-
-
-
-
-
 }
