@@ -1,7 +1,6 @@
 // Your First C++ Program
 
 #include <iostream>
-<<<<<<< HEAD
 using namespace std;
 
 int main() {
@@ -87,10 +86,4 @@ int main() {
 
 
 
-=======
-
-int main() {
-    std::cout << "Hello World!";
-    return 0;
->>>>>>> 5bcbcd5305f297914fb3a8488a55dcb6469ae971
 }
